@@ -1,0 +1,58 @@
+name: Bundle Packages
+
+on:
+  workflow_dispatch:  # Manual trigger
+  schedule:
+    - cron: '0 0 * * *'  # Every day at midnight UTC
+
+jobs:
+  bundle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300  # 5 hours max
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install dependencies
+        run: npm install
+      
+      - name: Fetch packages
+        run: npm run fetch
+      
+      - name: Download existing index from Appwrite
+        continue-on-error: true
+        env:
+          APPWRITE_ENDPOINT: ${{ secrets.APPWRITE_ENDPOINT }}
+          APPWRITE_PROJECT: ${{ secrets.APPWRITE_PROJECT }}
+          APPWRITE_BUCKET_ID: ${{ secrets.APPWRITE_BUCKET_ID }}
+        run: |
+          mkdir -p data
+          curl -s -o data/index.json "${APPWRITE_ENDPOINT}/storage/buckets/${APPWRITE_BUCKET_ID}/files/index/view?project=${APPWRITE_PROJECT}" || echo "{}" > data/index.json
+      
+      - name: Bundle packages (skips existing versions)
+        env:
+          APPWRITE_ENDPOINT: ${{ secrets.APPWRITE_ENDPOINT }}
+          APPWRITE_PROJECT: ${{ secrets.APPWRITE_PROJECT }}
+          APPWRITE_API_KEY: ${{ secrets.APPWRITE_API_KEY }}
+          APPWRITE_BUCKET_ID: ${{ secrets.APPWRITE_BUCKET_ID }}
+        run: npm run bundle
+      
+      - name: Upload index.json artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: bundle-index
+          path: data/index.json
+      
+      - name: Upload failed.json artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: failed-packages
+          path: data/failed.json
+          if-no-files-found: ignore

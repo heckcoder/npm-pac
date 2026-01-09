@@ -1,0 +1,3831 @@
+[
+  {
+    "name": "semver",
+    "downloads": 392473468,
+    "size": 97743,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "lodash",
+    "downloads": 67493037,
+    "size": 1412415,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "axios",
+    "downloads": 62834839,
+    "size": 2292298,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "zod",
+    "downloads": 53527479,
+    "size": 4340016,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "eventemitter3",
+    "downloads": 51632078,
+    "size": 73390,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "clsx",
+    "downloads": 33738122,
+    "size": 8555,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "date-fns",
+    "downloads": 32047804,
+    "size": 22601076,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "dayjs",
+    "downloads": 26485875,
+    "size": 678966,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "tailwindcss",
+    "downloads": 26366327,
+    "size": 748832,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "html-entities",
+    "downloads": 20258195,
+    "size": 132312,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "luxon",
+    "downloads": 15018959,
+    "size": 4592735,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "redux",
+    "downloads": 14935123,
+    "size": 289804,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "tailwind-merge",
+    "downloads": 13229193,
+    "size": 934340,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "reselect",
+    "downloads": 13114514,
+    "size": 646106,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-hook-form",
+    "downloads": 13049108,
+    "size": 1235440,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "zustand",
+    "downloads": 12559813,
+    "size": 94273,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-redux",
+    "downloads": 11295184,
+    "size": 822524,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@tanstack/react-query",
+    "downloads": 10883768,
+    "size": 736054,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@hookform/resolvers",
+    "downloads": 9227241,
+    "size": 989826,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "class-variance-authority",
+    "downloads": 9063037,
+    "size": 22073,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "redux-thunk",
+    "downloads": 8454314,
+    "size": 26757,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "es-toolkit",
+    "downloads": 7399623,
+    "size": 2546978,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "yup",
+    "downloads": 7262832,
+    "size": 270432,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@reduxjs/toolkit",
+    "downloads": 6946274,
+    "size": 7035541,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-error-boundary",
+    "downloads": 6867291,
+    "size": 44046,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-i18next",
+    "downloads": 5834849,
+    "size": 890080,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@supabase/supabase-js",
+    "downloads": 5561415,
+    "size": 364177,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "formik",
+    "downloads": 2783849,
+    "size": 585028,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "use-debounce",
+    "downloads": 2587161,
+    "size": 121465,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "drizzle-orm",
+    "downloads": 2488763,
+    "size": 10405189,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "xstate",
+    "downloads": 2350477,
+    "size": 2200407,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-safe-area-context",
+    "downloads": 2226390,
+    "size": 230674,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "jotai",
+    "downloads": 2106987,
+    "size": 510690,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@react-navigation/elements",
+    "downloads": 2103612,
+    "size": 275264,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@react-navigation/native",
+    "downloads": 2087184,
+    "size": 233215,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-file-system",
+    "downloads": 2061698,
+    "size": 833875,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-reanimated",
+    "downloads": 1988163,
+    "size": 3901286,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo",
+    "downloads": 1977386,
+    "size": 867812,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-font",
+    "downloads": 1977130,
+    "size": 221988,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@react-navigation/routers",
+    "downloads": 1959809,
+    "size": 166673,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-screens",
+    "downloads": 1956524,
+    "size": 2437637,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-asset",
+    "downloads": 1951679,
+    "size": 234846,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@react-native-async-storage/async-storage",
+    "downloads": 1941700,
+    "size": 380789,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-svg",
+    "downloads": 1920480,
+    "size": 3746132,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-gesture-handler",
+    "downloads": 1915190,
+    "size": 3292823,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-keep-awake",
+    "downloads": 1892941,
+    "size": 59766,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@fortawesome/fontawesome-svg-core",
+    "downloads": 1800247,
+    "size": 438956,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@expo/vector-icons",
+    "downloads": 1777472,
+    "size": 6010235,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-freeze",
+    "downloads": 1751039,
+    "size": 17179,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@fortawesome/free-solid-svg-icons",
+    "downloads": 1708466,
+    "size": 5063436,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@react-navigation/bottom-tabs",
+    "downloads": 1646012,
+    "size": 356969,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@react-navigation/native-stack",
+    "downloads": 1635377,
+    "size": 248765,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-status-bar",
+    "downloads": 1366861,
+    "size": 24914,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@xstate/react",
+    "downloads": 1314119,
+    "size": 36230,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-linking",
+    "downloads": 1307880,
+    "size": 159370,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-webview",
+    "downloads": 1262832,
+    "size": 660551,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-splash-screen",
+    "downloads": 1189773,
+    "size": 118396,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-url-polyfill",
+    "downloads": 1140693,
+    "size": 28670,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-web-browser",
+    "downloads": 1130266,
+    "size": 268926,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-router",
+    "downloads": 979640,
+    "size": 2457884,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-application",
+    "downloads": 978469,
+    "size": 99235,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@aws-amplify/auth",
+    "downloads": 955683,
+    "size": 3244798,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-system-ui",
+    "downloads": 926161,
+    "size": 76756,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-image",
+    "downloads": 920238,
+    "size": 839777,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-linear-gradient",
+    "downloads": 915455,
+    "size": 103046,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-haptics",
+    "downloads": 913059,
+    "size": 80029,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-manifests",
+    "downloads": 912690,
+    "size": 62940,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@react-native-community/netinfo",
+    "downloads": 895726,
+    "size": 546659,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-qr-code",
+    "downloads": 893016,
+    "size": 13763,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-json-utils",
+    "downloads": 870652,
+    "size": 15175,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@react-native-community/datetimepicker",
+    "downloads": 857337,
+    "size": 265846,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@fortawesome/free-regular-svg-icons",
+    "downloads": 853023,
+    "size": 698777,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "aws-amplify",
+    "downloads": 847684,
+    "size": 169515,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@aws-amplify/datastore",
+    "downloads": 841379,
+    "size": 2806091,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-dev-client",
+    "downloads": 774777,
+    "size": 62621,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@microsoft/signalr",
+    "downloads": 765344,
+    "size": 2838302,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-image-picker",
+    "downloads": 748417,
+    "size": 517406,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-blur",
+    "downloads": 720779,
+    "size": 96741,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@gorhom/bottom-sheet",
+    "downloads": 700591,
+    "size": 1306987,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@react-navigation/stack",
+    "downloads": 691623,
+    "size": 461008,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "drizzle-zod",
+    "downloads": 689442,
+    "size": 92553,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-secure-store",
+    "downloads": 653052,
+    "size": 213039,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "recyclerlistview",
+    "downloads": 650120,
+    "size": 6000510,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-crypto",
+    "downloads": 646052,
+    "size": 114039,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@tanstack/query-persist-client-core",
+    "downloads": 641874,
+    "size": 180645,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-build-properties",
+    "downloads": 638257,
+    "size": 124308,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "otpauth",
+    "downloads": 626868,
+    "size": 750590,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-notifications",
+    "downloads": 620927,
+    "size": 1553612,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-pager-view",
+    "downloads": 619986,
+    "size": 161564,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-device",
+    "downloads": 616829,
+    "size": 168283,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@lingui/core",
+    "downloads": 610615,
+    "size": 55383,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@sentry/react-native",
+    "downloads": 607270,
+    "size": 7155045,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "lottie-react-native",
+    "downloads": 599977,
+    "size": 289361,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@fortawesome/free-brands-svg-icons",
+    "downloads": 599827,
+    "size": 2251366,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-svg-transformer",
+    "downloads": 596097,
+    "size": 15627,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-content-loader",
+    "downloads": 587463,
+    "size": 164170,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@tanstack/react-form",
+    "downloads": 575708,
+    "size": 290588,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-updates",
+    "downloads": 567521,
+    "size": 2470879,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "better-auth",
+    "downloads": 563814,
+    "size": 4518521,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@react-native-picker/picker",
+    "downloads": 561744,
+    "size": 398744,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@tanstack/react-query-persist-client",
+    "downloads": 551888,
+    "size": 33917,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-structured-headers",
+    "downloads": 551687,
+    "size": 1428578,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@shopify/flash-list",
+    "downloads": 546998,
+    "size": 818706,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@react-native-community/slider",
+    "downloads": 546353,
+    "size": 751877,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "radash",
+    "downloads": 538512,
+    "size": 306084,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-location",
+    "downloads": 534142,
+    "size": 572840,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-tab-view",
+    "downloads": 525103,
+    "size": 193468,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-maps",
+    "downloads": 498183,
+    "size": 1881924,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-clipboard",
+    "downloads": 493317,
+    "size": 279530,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-constants",
+    "downloads": 478782,
+    "size": 128776,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-blob-util",
+    "downloads": 460724,
+    "size": 792011,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@react-native-masked-view/masked-view",
+    "downloads": 452605,
+    "size": 59004,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-camera",
+    "downloads": 443587,
+    "size": 859047,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-localization",
+    "downloads": 406451,
+    "size": 146650,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "ahooks",
+    "downloads": 402388,
+    "size": 621174,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-modal-datetime-picker",
+    "downloads": 367960,
+    "size": 43913,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@react-navigation/drawer",
+    "downloads": 363473,
+    "size": 125715,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-view-shot",
+    "downloads": 357995,
+    "size": 1721726,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-sharing",
+    "downloads": 357467,
+    "size": 60380,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-document-picker",
+    "downloads": 357402,
+    "size": 106051,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "livekit-client",
+    "downloads": 356286,
+    "size": 7473667,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-modal",
+    "downloads": 353083,
+    "size": 57712,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-auth-session",
+    "downloads": 349695,
+    "size": 394704,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-image-manipulator",
+    "downloads": 337359,
+    "size": 194096,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "i18n-js",
+    "downloads": 322944,
+    "size": 1702120,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-render-html",
+    "downloads": 316826,
+    "size": 783354,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-intent-launcher",
+    "downloads": 312617,
+    "size": 153584,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@react-navigation/material-top-tabs",
+    "downloads": 308082,
+    "size": 63029,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-drawer-layout",
+    "downloads": 285812,
+    "size": 102821,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-uuid",
+    "downloads": 281002,
+    "size": 160169,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@lingui/react",
+    "downloads": 275566,
+    "size": 36126,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-reanimated-carousel",
+    "downloads": 267892,
+    "size": 1764025,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-qrcode-svg",
+    "downloads": 257991,
+    "size": 958344,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-paper",
+    "downloads": 255102,
+    "size": 3763187,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-toast-message",
+    "downloads": 237007,
+    "size": 44640,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@tanstack/query-async-storage-persister",
+    "downloads": 223006,
+    "size": 56555,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-calendars",
+    "downloads": 222845,
+    "size": 429994,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "victory-native",
+    "downloads": 222177,
+    "size": 417570,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@expo/react-native-action-sheet",
+    "downloads": 212724,
+    "size": 176556,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-local-authentication",
+    "downloads": 201349,
+    "size": 128412,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-media-library",
+    "downloads": 200030,
+    "size": 1093943,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-performance",
+    "downloads": 194644,
+    "size": 192136,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-screen-orientation",
+    "downloads": 193947,
+    "size": 205056,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-network",
+    "downloads": 187379,
+    "size": 90051,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-dotenv",
+    "downloads": 178121,
+    "size": 22020,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-store-review",
+    "downloads": 169941,
+    "size": 54854,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@stripe/stripe-react-native",
+    "downloads": 167916,
+    "size": 2583384,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-task-manager",
+    "downloads": 163280,
+    "size": 261060,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-sqlite",
+    "downloads": 160037,
+    "size": 74629333,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "moti",
+    "downloads": 155176,
+    "size": 778634,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-collapsible",
+    "downloads": 154616,
+    "size": 30740,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-in-app-review",
+    "downloads": 134421,
+    "size": 60618,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-ratings",
+    "downloads": 132129,
+    "size": 103752,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-confirmation-code-field",
+    "downloads": 129690,
+    "size": 24213,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "parse",
+    "downloads": 129251,
+    "size": 8247327,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-sensors",
+    "downloads": 120269,
+    "size": 341529,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "apisauce",
+    "downloads": 115573,
+    "size": 33143,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "posthog-react-native",
+    "downloads": 112985,
+    "size": 371875,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-google-places-autocomplete",
+    "downloads": 112513,
+    "size": 99465,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-redash",
+    "downloads": 111108,
+    "size": 263051,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-calendar",
+    "downloads": 109996,
+    "size": 496980,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-tracking-transparency",
+    "downloads": 107430,
+    "size": 60228,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-picker-select",
+    "downloads": 103978,
+    "size": 45794,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-contacts",
+    "downloads": 99589,
+    "size": 386098,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-print",
+    "downloads": 95891,
+    "size": 148865,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@tamagui/shorthands",
+    "downloads": 90746,
+    "size": 100180,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@tamagui/animations-react-native",
+    "downloads": 90704,
+    "size": 159857,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@react-native-segmented-control/segmented-control",
+    "downloads": 88384,
+    "size": 48092,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/slot",
+    "downloads": 87260,
+    "size": 13773,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-youtube-iframe",
+    "downloads": 82717,
+    "size": 74746,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@react-native-community/hooks",
+    "downloads": 78910,
+    "size": 46999,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-gifted-charts",
+    "downloads": 77476,
+    "size": 360636,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@tamagui/animations-moti",
+    "downloads": 77096,
+    "size": 116584,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-sse",
+    "downloads": 74336,
+    "size": 24084,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/hooks",
+    "downloads": 73854,
+    "size": 21709,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@cantoo/pdf-lib",
+    "downloads": 73594,
+    "size": 21202312,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-signature-canvas",
+    "downloads": 73563,
+    "size": 104236,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "tamagui",
+    "downloads": 73529,
+    "size": 2272782,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@tamagui/themes",
+    "downloads": 73423,
+    "size": 11195283,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-mail-composer",
+    "downloads": 72760,
+    "size": 93124,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/portal",
+    "downloads": 70900,
+    "size": 9495,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-sms",
+    "downloads": 70524,
+    "size": 70205,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-circular-progress",
+    "downloads": 69375,
+    "size": 20970,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@xstate/store",
+    "downloads": 67721,
+    "size": 122078,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@tamagui/config",
+    "downloads": 65169,
+    "size": 1262747,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-gl",
+    "downloads": 61773,
+    "size": 1666159,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "zeego",
+    "downloads": 61698,
+    "size": 781298,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@miblanchard/react-native-slider",
+    "downloads": 61414,
+    "size": 101483,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-root-siblings",
+    "downloads": 61322,
+    "size": 28284,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-country-picker-modal",
+    "downloads": 59295,
+    "size": 267693,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@legendapp/list",
+    "downloads": 57639,
+    "size": 325625,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-email-link",
+    "downloads": 56386,
+    "size": 43434,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-battery",
+    "downloads": 55762,
+    "size": 123912,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@legendapp/motion",
+    "downloads": 55378,
+    "size": 241489,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-video-thumbnails",
+    "downloads": 55180,
+    "size": 65622,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-brightness",
+    "downloads": 54512,
+    "size": 105418,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "twrnc",
+    "downloads": 52907,
+    "size": 266900,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-gifted-chat",
+    "downloads": 50845,
+    "size": 210375,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-otp-entry",
+    "downloads": 50501,
+    "size": 28641,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-speech",
+    "downloads": 46496,
+    "size": 124841,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@better-auth/expo",
+    "downloads": 46162,
+    "size": 34146,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-screen-capture",
+    "downloads": 42686,
+    "size": 109496,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-actions-sheet",
+    "downloads": 41943,
+    "size": 163365,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-cellular",
+    "downloads": 41167,
+    "size": 120308,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-popup-menu",
+    "downloads": 40934,
+    "size": 452123,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "sonner-native",
+    "downloads": 40692,
+    "size": 308800,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-hyperlink",
+    "downloads": 40612,
+    "size": 34070,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-error-boundary",
+    "downloads": 40575,
+    "size": 25562,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@ptomasroos/react-native-multi-slider",
+    "downloads": 40106,
+    "size": 34660,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-popover-view",
+    "downloads": 39597,
+    "size": 309659,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "phosphor-react-native",
+    "downloads": 39179,
+    "size": 23534565,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-root-toast",
+    "downloads": 38704,
+    "size": 17928,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-flash-message",
+    "downloads": 38291,
+    "size": 61711,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-2d-context",
+    "downloads": 37155,
+    "size": 2344108,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "stream-chat-expo",
+    "downloads": 34575,
+    "size": 46238,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "use-count-up",
+    "downloads": 33733,
+    "size": 27496,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/utils",
+    "downloads": 33536,
+    "size": 7110,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-shadow-2",
+    "downloads": 33332,
+    "size": 61089,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@aws-amplify/react-native",
+    "downloads": 32561,
+    "size": 418771,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/switch",
+    "downloads": 32128,
+    "size": 15802,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/dropdown-menu",
+    "downloads": 31881,
+    "size": 84829,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-network-logger",
+    "downloads": 31646,
+    "size": 231447,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/select",
+    "downloads": 31179,
+    "size": 62839,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-ui-datepicker",
+    "downloads": 31080,
+    "size": 765502,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-paper-dates",
+    "downloads": 30255,
+    "size": 1005530,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/checkbox",
+    "downloads": 29756,
+    "size": 21426,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-reanimated-dnd",
+    "downloads": 29646,
+    "size": 99622,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/avatar",
+    "downloads": 28238,
+    "size": 13154,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-awesome-gallery",
+    "downloads": 27478,
+    "size": 271501,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@shopify/restyle",
+    "downloads": 27210,
+    "size": 92221,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/label",
+    "downloads": 27112,
+    "size": 13810,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-map-link",
+    "downloads": 26522,
+    "size": 313557,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@legendapp/state",
+    "downloads": 25500,
+    "size": 992478,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-json-tree",
+    "downloads": 24934,
+    "size": 31536,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/tabs",
+    "downloads": 24383,
+    "size": 25704,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-qrcode-styled",
+    "downloads": 24294,
+    "size": 259634,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-awesome-slider",
+    "downloads": 24090,
+    "size": 183923,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/accordion",
+    "downloads": 23853,
+    "size": 41368,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "reanimated-color-picker",
+    "downloads": 23423,
+    "size": 3713380,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/collapsible",
+    "downloads": 23170,
+    "size": 25380,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/dialog",
+    "downloads": 23124,
+    "size": 40364,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "rn-emoji-keyboard",
+    "downloads": 22365,
+    "size": 1327141,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "tinybase",
+    "downloads": 22123,
+    "size": 8576605,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/separator",
+    "downloads": 21588,
+    "size": 7629,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@swan-io/react-native-browser",
+    "downloads": 20801,
+    "size": 51630,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/radio-group",
+    "downloads": 19708,
+    "size": 21539,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/progress",
+    "downloads": 19486,
+    "size": 14774,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@fortawesome/react-native-fontawesome",
+    "downloads": 19136,
+    "size": 18910,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "xior",
+    "downloads": 19128,
+    "size": 251830,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-country-flag",
+    "downloads": 18876,
+    "size": 8223,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-mask-text",
+    "downloads": 18446,
+    "size": 153895,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/tooltip",
+    "downloads": 18330,
+    "size": 36725,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-three",
+    "downloads": 18323,
+    "size": 126395,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-map-clustering",
+    "downloads": 18171,
+    "size": 37695,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-calendar-picker",
+    "downloads": 17559,
+    "size": 119993,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/alert-dialog",
+    "downloads": 17249,
+    "size": 43716,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-recaptcha-that-works",
+    "downloads": 17073,
+    "size": 39880,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@react-native-assets/slider",
+    "downloads": 17065,
+    "size": 103963,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@quidone/react-native-wheel-picker",
+    "downloads": 16842,
+    "size": 451818,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-icomoon",
+    "downloads": 16822,
+    "size": 92411,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-check-version",
+    "downloads": 16715,
+    "size": 11672,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-controlled-mentions",
+    "downloads": 16667,
+    "size": 83452,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@adobe/react-native-aepcore",
+    "downloads": 16328,
+    "size": 181853,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@teovilla/react-native-web-maps",
+    "downloads": 16075,
+    "size": 331001,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-sortables",
+    "downloads": 15287,
+    "size": 1022450,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-international-phone-number",
+    "downloads": 14538,
+    "size": 113792,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/popover",
+    "downloads": 14531,
+    "size": 40267,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-super-grid",
+    "downloads": 14438,
+    "size": 47560,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@instantdb/react-native",
+    "downloads": 13666,
+    "size": 129428,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-radio-buttons-group",
+    "downloads": 13666,
+    "size": 111234,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-swiper-flatlist",
+    "downloads": 13636,
+    "size": 72808,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@futurejj/react-native-visibility-sensor",
+    "downloads": 12851,
+    "size": 59102,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@10play/tentap-editor",
+    "downloads": 12653,
+    "size": 4999280,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-sass-transformer",
+    "downloads": 12239,
+    "size": 16584,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-ui-lib",
+    "downloads": 12025,
+    "size": 2644070,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-autocomplete-dropdown",
+    "downloads": 11880,
+    "size": 271247,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-reanimated-skeleton",
+    "downloads": 11723,
+    "size": 94759,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-countdown-circle-timer",
+    "downloads": 11574,
+    "size": 22520,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@animatereactnative/marquee",
+    "downloads": 11322,
+    "size": 42746,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-easing-gradient",
+    "downloads": 11294,
+    "size": 978254,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@marceloterreiro/flash-calendar",
+    "downloads": 11246,
+    "size": 513214,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-marked",
+    "downloads": 11194,
+    "size": 262474,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/toggle",
+    "downloads": 11166,
+    "size": 12843,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-fast-confetti",
+    "downloads": 10867,
+    "size": 181753,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "toastify-react-native",
+    "downloads": 10865,
+    "size": 551906,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-storage",
+    "downloads": 10775,
+    "size": 124306,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/toggle-group",
+    "downloads": 10446,
+    "size": 25037,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-radial-gradient",
+    "downloads": 10420,
+    "size": 37705,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "uniwind",
+    "downloads": 10294,
+    "size": 595462,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/table",
+    "downloads": 10080,
+    "size": 12999,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-text-ticker",
+    "downloads": 10004,
+    "size": 19552,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-autocomplete-input",
+    "downloads": 9947,
+    "size": 10285,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/context-menu",
+    "downloads": 9536,
+    "size": 86150,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-dropdownalert",
+    "downloads": 9285,
+    "size": 37781,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-modalbox",
+    "downloads": 9119,
+    "size": 21424,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-notifier",
+    "downloads": 9063,
+    "size": 141402,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-console-time-polyfill",
+    "downloads": 8733,
+    "size": 4887,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-deck-swiper",
+    "downloads": 8679,
+    "size": 2319587,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-extended-stylesheet",
+    "downloads": 8191,
+    "size": 381852,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/aspect-ratio",
+    "downloads": 8084,
+    "size": 7257,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-canvas",
+    "downloads": 7790,
+    "size": 71319,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-drizzle-studio-plugin",
+    "downloads": 7510,
+    "size": 3171727,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-copilot",
+    "downloads": 7325,
+    "size": 207766,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/hover-card",
+    "downloads": 7308,
+    "size": 35695,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-typography",
+    "downloads": 7261,
+    "size": 103797,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-flex-grid",
+    "downloads": 6716,
+    "size": 142879,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-pkce-challenge",
+    "downloads": 6656,
+    "size": 83089,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-vimeo-iframe",
+    "downloads": 6645,
+    "size": 41476,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/menubar",
+    "downloads": 6564,
+    "size": 85643,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-type-animation",
+    "downloads": 6504,
+    "size": 747088,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-timer-picker",
+    "downloads": 6139,
+    "size": 1301985,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-auto-height-image",
+    "downloads": 5916,
+    "size": 26364,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-webp-format",
+    "downloads": 5349,
+    "size": 14609,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@powersync/react-native",
+    "downloads": 5333,
+    "size": 6089681,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-swipeable-list",
+    "downloads": 5330,
+    "size": 21793,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-jwt",
+    "downloads": 5199,
+    "size": 31166,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "enum-plus",
+    "downloads": 5146,
+    "size": 1143783,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "dripsy",
+    "downloads": 4752,
+    "size": 322952,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-onboarding-swiper",
+    "downloads": 4732,
+    "size": 32469,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-animated-rolling-numbers",
+    "downloads": 4722,
+    "size": 68348,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-floating-label-input",
+    "downloads": 4355,
+    "size": 283978,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "rn-material-ui-textfield",
+    "downloads": 4242,
+    "size": 860227,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "tailwind-rn",
+    "downloads": 4111,
+    "size": 36184,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-theoplayer",
+    "downloads": 4088,
+    "size": 2658079,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "expo-skeleton-loading",
+    "downloads": 4088,
+    "size": 11104,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/navigation-menu",
+    "downloads": 3930,
+    "size": 46892,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "rn-tourguide",
+    "downloads": 3858,
+    "size": 68929,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-flex-layout",
+    "downloads": 3724,
+    "size": 181167,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "freerasp-react-native",
+    "downloads": 3690,
+    "size": 11608151,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-animated-glow",
+    "downloads": 3594,
+    "size": 251743,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-navigation-header-buttons",
+    "downloads": 3506,
+    "size": 303649,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-shared-element",
+    "downloads": 3300,
+    "size": 1109582,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "pressto",
+    "downloads": 3115,
+    "size": 120098,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-credit-card-input",
+    "downloads": 3029,
+    "size": 804827,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-animated-numbers",
+    "downloads": 2999,
+    "size": 44605,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@howljs/calendar-kit",
+    "downloads": 2889,
+    "size": 1984351,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-customizable-toast",
+    "downloads": 2746,
+    "size": 146642,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-big-list",
+    "downloads": 2722,
+    "size": 378632,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-input-select",
+    "downloads": 2694,
+    "size": 348290,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "pinar",
+    "downloads": 2587,
+    "size": 76897,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-modalfy",
+    "downloads": 2530,
+    "size": 528958,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-navigation-backhandler",
+    "downloads": 2381,
+    "size": 5892,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-page-indicator",
+    "downloads": 2242,
+    "size": 21603,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@kolking/react-native-rating",
+    "downloads": 2237,
+    "size": 418766,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-timezone",
+    "downloads": 2137,
+    "size": 47769,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/toast",
+    "downloads": 2115,
+    "size": 15022,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-btr",
+    "downloads": 2104,
+    "size": 20186,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-code-highlighter",
+    "downloads": 2060,
+    "size": 32860,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-curved-bottom-bar",
+    "downloads": 2042,
+    "size": 255669,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/slider",
+    "downloads": 1997,
+    "size": 19152,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-vui/ratings",
+    "downloads": 1912,
+    "size": 103415,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@clerk/expo",
+    "downloads": 1910,
+    "size": 239839,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-game-engine",
+    "downloads": 1907,
+    "size": 54003,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@codeherence/react-native-header",
+    "downloads": 1862,
+    "size": 293002,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-ota-hot-update",
+    "downloads": 1803,
+    "size": 297494,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-ruler-picker",
+    "downloads": 1733,
+    "size": 68359,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-vui/base",
+    "downloads": 1728,
+    "size": 299599,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-calendario",
+    "downloads": 1702,
+    "size": 185917,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-month",
+    "downloads": 1692,
+    "size": 510510,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@powersync/adapter-sql-js",
+    "downloads": 1615,
+    "size": 12661265,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-simple-dialogs",
+    "downloads": 1593,
+    "size": 57180,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-testfairy",
+    "downloads": 1586,
+    "size": 41009591,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-flexible-grid",
+    "downloads": 1508,
+    "size": 183752,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-payment-icons",
+    "downloads": 1489,
+    "size": 53834,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@devvie/bottom-sheet",
+    "downloads": 1478,
+    "size": 232673,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-phone-entry",
+    "downloads": 1433,
+    "size": 179394,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@animatereactnative/stagger",
+    "downloads": 1406,
+    "size": 30875,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-scroll-sync",
+    "downloads": 1399,
+    "size": 34866,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-segmented-control-2",
+    "downloads": 1332,
+    "size": 59474,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-toastier",
+    "downloads": 1318,
+    "size": 98466,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-tableview-simple",
+    "downloads": 1256,
+    "size": 234587,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-simple-bottom-sheet",
+    "downloads": 1194,
+    "size": 543504,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-gesture-image-viewer",
+    "downloads": 1192,
+    "size": 213878,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-figma-squircle",
+    "downloads": 1168,
+    "size": 31148,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-menus",
+    "downloads": 1154,
+    "size": 80205,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-vui/themed",
+    "downloads": 1139,
+    "size": 69641,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@draftbit/ui",
+    "downloads": 1015,
+    "size": 281098,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-react-bridge",
+    "downloads": 930,
+    "size": 52187,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-style-tachyons",
+    "downloads": 925,
+    "size": 87713,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@kolking/react-native-avatar",
+    "downloads": 908,
+    "size": 90907,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "fast-is-equal",
+    "downloads": 800,
+    "size": 37985,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@jwplayer/jwplayer-react-native",
+    "downloads": 795,
+    "size": 604156,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@data-client/react",
+    "downloads": 794,
+    "size": 1941650,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-cached-image",
+    "downloads": 791,
+    "size": 22983,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-skia-gesture",
+    "downloads": 780,
+    "size": 81619,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-textinput-effects",
+    "downloads": 776,
+    "size": 62199,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "rn-vertical-slider",
+    "downloads": 747,
+    "size": 40664,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-input-spinner",
+    "downloads": 713,
+    "size": 464934,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-reactions",
+    "downloads": 709,
+    "size": 101694,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-primitives/toolbar",
+    "downloads": 703,
+    "size": 30059,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-fusioncharts",
+    "downloads": 647,
+    "size": 5206551,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@grapp/stacks",
+    "downloads": 640,
+    "size": 140674,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-maps-routes",
+    "downloads": 628,
+    "size": 21932,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-body-highlighter",
+    "downloads": 624,
+    "size": 1183878,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-ticker",
+    "downloads": 569,
+    "size": 14162,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-root-modal",
+    "downloads": 532,
+    "size": 7122,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "native-notify",
+    "downloads": 495,
+    "size": 19546,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-youtube-bridge",
+    "downloads": 494,
+    "size": 166350,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@showtime-xyz/tab-view",
+    "downloads": 431,
+    "size": 278045,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-toastable",
+    "downloads": 417,
+    "size": 161927,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "galio-framework",
+    "downloads": 415,
+    "size": 748993,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@svgr-iconkit/core",
+    "downloads": 415,
+    "size": 127647,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-session-storage",
+    "downloads": 410,
+    "size": 49759,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@shoutem/ui",
+    "downloads": 406,
+    "size": 1900752,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@aptabase/react-native",
+    "downloads": 393,
+    "size": 46124,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-tree-multi-select",
+    "downloads": 392,
+    "size": 201638,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@kanelloc/react-native-animated-header-scroll-view",
+    "downloads": 390,
+    "size": 68022,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-parallax-scroll-view",
+    "downloads": 389,
+    "size": 21543,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-highlighter",
+    "downloads": 360,
+    "size": 60015,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-full-responsive",
+    "downloads": 354,
+    "size": 142032,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-basic-carousel",
+    "downloads": 326,
+    "size": 39177,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-vimeo-bridge",
+    "downloads": 320,
+    "size": 178001,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-credentials-manager",
+    "downloads": 312,
+    "size": 158073,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-animated-nav-tab-bar",
+    "downloads": 312,
+    "size": 94801,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@iconscout/react-native-unicons",
+    "downloads": 296,
+    "size": 1353429,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@futurejj/react-native-checkbox",
+    "downloads": 285,
+    "size": 32414,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-gallery-preview",
+    "downloads": 284,
+    "size": 262989,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-processing",
+    "downloads": 280,
+    "size": 5371,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-inner-shadow",
+    "downloads": 276,
+    "size": 277259,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-animated-stopwatch-timer",
+    "downloads": 263,
+    "size": 66005,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@sellpy/react-native-scroll-anchor",
+    "downloads": 253,
+    "size": 81706,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-responsive-image-view",
+    "downloads": 246,
+    "size": 51788,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "duix",
+    "downloads": 218,
+    "size": 30013,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-vercel-ai",
+    "downloads": 208,
+    "size": 155473,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-fiesta",
+    "downloads": 193,
+    "size": 300788,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@reagankm/rn-animated-ellipsis",
+    "downloads": 192,
+    "size": 13038,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-sheet-transitions",
+    "downloads": 184,
+    "size": 49230,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@shipt/segmented-arc-for-react-native",
+    "downloads": 183,
+    "size": 62417,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "rn-scroll-viewport-tracker",
+    "downloads": 179,
+    "size": 74016,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@mobile-reality/react-native-select-pro",
+    "downloads": 168,
+    "size": 684037,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "rn-css",
+    "downloads": 157,
+    "size": 438271,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-crossfade-image",
+    "downloads": 155,
+    "size": 12191,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "swiftui-react-native",
+    "downloads": 155,
+    "size": 6657436,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@osamaq/drag-select",
+    "downloads": 137,
+    "size": 132198,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@raulpesilva/re-state",
+    "downloads": 126,
+    "size": 119256,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-reanimated-image-viewer",
+    "downloads": 120,
+    "size": 61616,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-smart-placeholder",
+    "downloads": 117,
+    "size": 21692,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@fowusu/calendar-kit",
+    "downloads": 111,
+    "size": 46422,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-google-maps-plus",
+    "downloads": 108,
+    "size": 1285737,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "pagescrollview",
+    "downloads": 106,
+    "size": 9015,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@hyoper/rn-animated-modal",
+    "downloads": 103,
+    "size": 232275,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-alert-queue",
+    "downloads": 101,
+    "size": 161302,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-stylex",
+    "downloads": 101,
+    "size": 34054,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-slider-intro",
+    "downloads": 100,
+    "size": 180062,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-amazing-cropper",
+    "downloads": 97,
+    "size": 207892,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-press-and-hold-button",
+    "downloads": 91,
+    "size": 83120,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-form-component",
+    "downloads": 85,
+    "size": 265021,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "rn-use-google-places-autocomplete",
+    "downloads": 75,
+    "size": 29518,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@appandflow/react-native-magic-scroll",
+    "downloads": 75,
+    "size": 142036,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "rn-custom-alert-prompt",
+    "downloads": 71,
+    "size": 60411,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-aria-description",
+    "downloads": 68,
+    "size": 45225,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@aramir/react-native-barcode",
+    "downloads": 67,
+    "size": 9295,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-xenon",
+    "downloads": 64,
+    "size": 376666,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "rneui",
+    "downloads": 63,
+    "size": 381,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-bignumber",
+    "downloads": 63,
+    "size": 352235,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "easyqrcode-react-native",
+    "downloads": 63,
+    "size": 1496141,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "reanimated-collapsible-helpers",
+    "downloads": 61,
+    "size": 29012,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@react-native-blossom-ui/components",
+    "downloads": 57,
+    "size": 479667,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-reanimated-modal",
+    "downloads": 56,
+    "size": 123353,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "rn-inkpad",
+    "downloads": 55,
+    "size": 361710,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-input-code-otp",
+    "downloads": 53,
+    "size": 107890,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-sized-webview",
+    "downloads": 48,
+    "size": 84051,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-reanimated-progress-steps",
+    "downloads": 46,
+    "size": 142286,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@mohamadkh75/react-native-jalali-datepicker",
+    "downloads": 45,
+    "size": 35839,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-pintyper",
+    "downloads": 44,
+    "size": 28105,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-click-outside",
+    "downloads": 43,
+    "size": 48082,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "heart-switch-react-native",
+    "downloads": 38,
+    "size": 74969,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@hake/react-native-markdown",
+    "downloads": 37,
+    "size": 122497,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "multiform-validator",
+    "downloads": 37,
+    "size": 100686,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@shipt/osmosis",
+    "downloads": 37,
+    "size": 38458,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-liquid-gauge",
+    "downloads": 37,
+    "size": 225234,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-nepali-picker",
+    "downloads": 36,
+    "size": 241575,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "rn-text-touch-highlight",
+    "downloads": 34,
+    "size": 727370,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-toastify-expo",
+    "downloads": 33,
+    "size": 45624,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-ficus-ui",
+    "downloads": 29,
+    "size": 1158882,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-material-you-colors",
+    "downloads": 28,
+    "size": 440753,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-redux-persist2",
+    "downloads": 28,
+    "size": 18379,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "vision-camera-image-labeler",
+    "downloads": 27,
+    "size": 48983,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "@juhuu/sdk-ts",
+    "downloads": 25,
+    "size": 904843,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@helpkit/helpkit-help-center-react-native",
+    "downloads": 25,
+    "size": 172201,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "nativeflowcss",
+    "downloads": 25,
+    "size": 398093,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@lodev09/expo-recorder",
+    "downloads": 23,
+    "size": 132960,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-emoji-chooser",
+    "downloads": 23,
+    "size": 70279,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@netizen-teknologi/react-native-maps-leaflet",
+    "downloads": 22,
+    "size": 22349,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-style-queries",
+    "downloads": 20,
+    "size": 30464,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-image-compare",
+    "downloads": 20,
+    "size": 15927,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-toastboard",
+    "downloads": 20,
+    "size": 38621,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@react-native-blossom-ui/dates",
+    "downloads": 19,
+    "size": 155933,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-motion-tabs",
+    "downloads": 18,
+    "size": 72446,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@vega-ui/react-native",
+    "downloads": 17,
+    "size": 344180,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-scroll-to-child",
+    "downloads": 15,
+    "size": 146471,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-web-jsonschema-form",
+    "downloads": 15,
+    "size": 191929,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@kolking/react-native-parallax-swiper",
+    "downloads": 14,
+    "size": 17975,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-rooster",
+    "downloads": 13,
+    "size": 246128,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-flix/auto-image",
+    "downloads": 13,
+    "size": 21501,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "rxn-units",
+    "downloads": 13,
+    "size": 7596,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-skia-shadow",
+    "downloads": 13,
+    "size": 41904,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@shayrn/react-native-scaler",
+    "downloads": 12,
+    "size": 56193,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-fn-forms",
+    "downloads": 10,
+    "size": 120036,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@react-native-assets/navigation",
+    "downloads": 10,
+    "size": 34031,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-simple-weekly-calendar",
+    "downloads": 10,
+    "size": 45119,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-dream-toast",
+    "downloads": 10,
+    "size": 33262,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@oxidia/style-variance-authority",
+    "downloads": 10,
+    "size": 18836,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "native-sass",
+    "downloads": 10,
+    "size": 208952,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "bottom-sheet-stepper",
+    "downloads": 9,
+    "size": 19354,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-shine",
+    "downloads": 8,
+    "size": 404892,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@flixsrota/player",
+    "downloads": 8,
+    "size": 65733,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-custom-select",
+    "downloads": 8,
+    "size": 136487,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@rn-flix/snackbar",
+    "downloads": 8,
+    "size": 14952,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-hotspot",
+    "downloads": 8,
+    "size": 12154,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@mosmmy/mo-icon-react-native",
+    "downloads": 7,
+    "size": 10400418,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-dotgrid",
+    "downloads": 7,
+    "size": 150550,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-mixins",
+    "downloads": 7,
+    "size": 14323,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-screenshot-test",
+    "downloads": 6,
+    "size": 40726,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-letter-flatlist",
+    "downloads": 6,
+    "size": 13994,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@siposdani87/expo-maps-polygon-editor",
+    "downloads": 5,
+    "size": 102628,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-stonewall-grid",
+    "downloads": 5,
+    "size": 16275,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@pachun/react-native-use-app-lifecycle",
+    "downloads": 5,
+    "size": 6091,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-scales",
+    "downloads": 5,
+    "size": 7115,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@brijen/react-native-multistep",
+    "downloads": 5,
+    "size": 138119,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@pachun/simple-expo-update",
+    "downloads": 5,
+    "size": 5122,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-drag-expand",
+    "downloads": 5,
+    "size": 91189,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-trendy",
+    "downloads": 5,
+    "size": 1848827,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-irano",
+    "downloads": 5,
+    "size": 112491,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "rn-float-box",
+    "downloads": 5,
+    "size": 48615,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@sectiontn/otp-input",
+    "downloads": 5,
+    "size": 101488,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-use-form",
+    "downloads": 4,
+    "size": 288185,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-multipurpose-calendar",
+    "downloads": 4,
+    "size": 9246336,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "rn-segmented-tab-controls",
+    "downloads": 3,
+    "size": 20877,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-pushdown-alert",
+    "downloads": 3,
+    "size": 126341,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-ranking-leaderboard",
+    "downloads": 3,
+    "size": 2626397,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "userealmstorage-dexterverse",
+    "downloads": 3,
+    "size": 9018,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "animation-wrapper-view",
+    "downloads": 2,
+    "size": 127241,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-ui-kit",
+    "downloads": 2,
+    "size": 53095,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@netizen-teknologi/avatar-placeholder",
+    "downloads": 2,
+    "size": 4253,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-webview-rpc",
+    "downloads": 1,
+    "size": 0,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@xterio-sdk/rn-auth",
+    "downloads": 1,
+    "size": 1372806,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "useapihook-dexterverse",
+    "downloads": 1,
+    "size": 26321,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "useutils-dexterverse",
+    "downloads": 1,
+    "size": 29000,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "expo-spellchecker",
+    "downloads": 1,
+    "size": 6698535,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-streaming-message-list",
+    "downloads": 0,
+    "size": 210942,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-earl-gamepad",
+    "downloads": 0,
+    "size": 73016,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-swappable-grid",
+    "downloads": 0,
+    "size": 358749,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-custom-splash",
+    "downloads": 0,
+    "size": 102861,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "kratos-selfservice-ui-react-native",
+    "downloads": 0,
+    "size": 0,
+    "hasNativeCode": true,
+    "expoGo": true
+  },
+  {
+    "name": "react-native-feather-toast",
+    "downloads": 0,
+    "size": 33529,
+    "hasNativeCode": false,
+    "expoGo": true
+  },
+  {
+    "name": "@fast-base/native",
+    "downloads": 0,
+    "size": 499557,
+    "hasNativeCode": false,
+    "expoGo": true
+  }
+]
